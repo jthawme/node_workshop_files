@@ -7,4 +7,4 @@ var name = 'Human';
 console.log('Hello name');
 
 // Concatenation of string and variable
-// console.log('Hello ' + name)
+ console.log('Hello ' + name)
